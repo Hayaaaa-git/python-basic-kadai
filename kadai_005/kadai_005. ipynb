@@ -1,0 +1,10 @@
+upper = 10
+lower = 20
+high = 5
+
+
+area = (10 + 20 ) * 5 / 2
+
+
+print(str(area) + "cm²")
+
